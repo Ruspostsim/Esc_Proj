@@ -101,6 +101,10 @@
 		{
 			"Name": "CinematicPrestreaming",
 			"Enabled": true
+		},
+		{
+			"Name": "WebcamMedia",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
